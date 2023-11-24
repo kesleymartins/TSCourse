@@ -1,4 +1,4 @@
-let profile: { name: string, age: number, password: (string | null) } = {
+const profile: { name: string, age: number, password: (string | null) } = {
   name: "Doctor Who",
   age: 900,
   password: null
