@@ -1,7 +1,7 @@
 # TS Course
 A project with some basic typescript code for learning purpose
 
-# how to build
+## how to build
 ```sh
 # Install typescript dependency
 npm i
